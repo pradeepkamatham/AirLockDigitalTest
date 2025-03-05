@@ -1,0 +1,14 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/monocart-report/
+/screenshots/
+B00**.json
+E00**.json
+G00**.json
+err
+log
+
+*.log

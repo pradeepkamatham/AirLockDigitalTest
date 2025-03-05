@@ -1,0 +1,26 @@
+{
+  "name": "product-service-playwright-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "Pradeep Kamatham",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.2",
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "fs-extra": "^11.3.0",
+    "http-status-codes": "^2.3.0",
+    "monocart-reporter": "^2.8.0",
+    "playwright-ctrf-json-reporter": "^0.0.18",
+    "wiremock": "^3.12.1"
+  }
+}

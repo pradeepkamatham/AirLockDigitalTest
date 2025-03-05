@@ -1,0 +1,90 @@
+"" 
+
+Fri Jan 17 2025 13:12:39:203 GMT+1100 (AUS Eastern Daylight Time) -- Binary semantic version is v8.9.2
+Fri Jan 17 2025 13:12:39:204 GMT+1100 (AUS Eastern Daylight Time) -- Setting output as extra verbose with request parsing
+Fri Jan 17 2025 13:12:39:875 GMT+1100 (AUS Eastern Daylight Time) -- [WARNING] Skipping initialisation of configuration console because: port already in use by another Binary
+Fri Jan 17 2025 13:12:41:655 GMT+1100 (AUS Eastern Daylight Time) -- [SUCCESS] You can now access your local server(s) in our remote browser
+
+Fri Jan 17 2025 13:12:41:698 GMT+1100 (AUS Eastern Daylight Time) -- Connecting to BrowserStack using WebSocket protocol...
+Fri Jan 17 2025 13:12:41:698 GMT+1100 (AUS Eastern Daylight Time) -- Platform supports WebSocket connections.
+
+Fri Jan 17 2025 13:12:41:800 GMT+1100 (AUS Eastern Daylight Time) -- Press Ctrl-C to exit
+
+
+Fri Jan 17 2025 13:12:56:264 GMT+1100 (AUS Eastern Daylight Time) -- Request to: www.bing.com:443
+Fri Jan 17 2025 13:12:56:264 GMT+1100 (AUS Eastern Daylight Time) -- [PARSING HANDSHAKE][0][63538350] Handshake request to www.bing.com:443
+Fri Jan 17 2025 13:12:56:265 GMT+1100 (AUS Eastern Daylight Time) -- Connecting to: www.bing.com:443
+Fri Jan 17 2025 13:12:56:317 GMT+1100 (AUS Eastern Daylight Time) -- Connected to: 23.48.95.8
+Fri Jan 17 2025 13:12:56:380 GMT+1100 (AUS Eastern Daylight Time) -- Writing 2871 bytes response from: www.bing.com:443
+Fri Jan 17 2025 13:12:56:480 GMT+1100 (AUS Eastern Daylight Time) -- Writing 51 bytes response from: www.bing.com:443
+Fri Jan 17 2025 13:12:56:820 GMT+1100 (AUS Eastern Daylight Time) -- Writing 1512 bytes response from: www.bing.com:443
+Fri Jan 17 2025 13:12:57:368 GMT+1100 (AUS Eastern Daylight Time) -- Request to: www.bing.com:443
+Fri Jan 17 2025 13:12:57:368 GMT+1100 (AUS Eastern Daylight Time) -- [PARSING HANDSHAKE][0][63538446] Handshake request to www.bing.com:443
+Fri Jan 17 2025 13:12:57:368 GMT+1100 (AUS Eastern Daylight Time) -- Connecting to: www.bing.com:443
+Fri Jan 17 2025 13:12:57:390 GMT+1100 (AUS Eastern Daylight Time) -- Connected to: 23.48.95.8
+Fri Jan 17 2025 13:12:57:443 GMT+1100 (AUS Eastern Daylight Time) -- Writing 2871 bytes response from: www.bing.com:443
+Fri Jan 17 2025 13:12:57:546 GMT+1100 (AUS Eastern Daylight Time) -- Writing 51 bytes response from: www.bing.com:443
+Fri Jan 17 2025 13:12:57:791 GMT+1100 (AUS Eastern Daylight Time) -- Writing 1513 bytes response from: www.bing.com:443
+Fri Jan 17 2025 13:12:58:655 GMT+1100 (AUS Eastern Daylight Time) -- Request to: localhost:5173
+Fri Jan 17 2025 13:12:58:655 GMT+1100 (AUS Eastern Daylight Time) -- [PARSING HANDSHAKE][0][63538516] Handshake request to localhost:5173
+Fri Jan 17 2025 13:12:58:655 GMT+1100 (AUS Eastern Daylight Time) -- Connecting to: localhost:5173
+Fri Jan 17 2025 13:13:00:701 GMT+1100 (AUS Eastern Daylight Time) -- Connecting with 6
+Fri Jan 17 2025 13:13:02:742 GMT+1100 (AUS Eastern Daylight Time) -- Failed connecting to: localhost:5173
+Fri Jan 17 2025 13:13:02:774 GMT+1100 (AUS Eastern Daylight Time) -- [PARSING REQUEST][0][63538516] GET /energy/ HTTP/1.1
+Host: localhost:5173
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+Accept-Language: en-US
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Via: 1.1 browsermobproxy
+Connection: keep-alive
+
+
+Fri Jan 17 2025 13:13:02:829 GMT+1100 (AUS Eastern Daylight Time) -- Request to: d2ogrdw2mh0rsl.cloudfront.net:443
+Fri Jan 17 2025 13:13:02:829 GMT+1100 (AUS Eastern Daylight Time) -- [PARSING HANDSHAKE][0][63538890] Handshake request to d2ogrdw2mh0rsl.cloudfront.net:443
+Fri Jan 17 2025 13:13:02:829 GMT+1100 (AUS Eastern Daylight Time) -- Connecting to: d2ogrdw2mh0rsl.cloudfront.net:443
+Fri Jan 17 2025 13:13:02:890 GMT+1100 (AUS Eastern Daylight Time) -- Connected to: 18.64.49.17
+Fri Jan 17 2025 13:13:02:936 GMT+1100 (AUS Eastern Daylight Time) -- Writing 4104 bytes response from: d2ogrdw2mh0rsl.cloudfront.net:443
+Fri Jan 17 2025 13:13:02:937 GMT+1100 (AUS Eastern Daylight Time) -- Writing 1240 bytes response from: d2ogrdw2mh0rsl.cloudfront.net:443
+Fri Jan 17 2025 13:13:02:947 GMT+1100 (AUS Eastern Daylight Time) -- Writing 70 bytes response from: d2ogrdw2mh0rsl.cloudfront.net:443
+Fri Jan 17 2025 13:13:03:7 GMT+1100 (AUS Eastern Daylight Time) -- Writing 51 bytes response from: d2ogrdw2mh0rsl.cloudfront.net:443
+Fri Jan 17 2025 13:13:03:86 GMT+1100 (AUS Eastern Daylight Time) -- Writing 2936 bytes response from: d2ogrdw2mh0rsl.cloudfront.net:443
+Fri Jan 17 2025 13:13:03:152 GMT+1100 (AUS Eastern Daylight Time) -- Request to: localhost:5173
+Fri Jan 17 2025 13:13:03:152 GMT+1100 (AUS Eastern Daylight Time) -- [PARSING HANDSHAKE][0][63538928] Handshake request to localhost:5173
+Fri Jan 17 2025 13:13:03:152 GMT+1100 (AUS Eastern Daylight Time) -- Connecting to: localhost:5173
+Fri Jan 17 2025 13:13:05:176 GMT+1100 (AUS Eastern Daylight Time) -- Connecting with 6
+Fri Jan 17 2025 13:13:07:220 GMT+1100 (AUS Eastern Daylight Time) -- Failed connecting to: localhost:5173
+Fri Jan 17 2025 13:13:07:247 GMT+1100 (AUS Eastern Daylight Time) -- [PARSING REQUEST][0][63538928] GET /favicon.ico HTTP/1.1
+Host: localhost:5173
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
+sec-ch-ua: "Microsoft Edge";v="131", "Chromium";v="131", "Not_A Brand";v="24"
+Accept-Language: en-US
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://localhost:5173/energy/
+Accept-Encoding: gzip, deflate, br, zstd
+Via: 1.1 browsermobproxy
+Connection: keep-alive
+
+
+Fri Jan 17 2025 13:13:08:652 GMT+1100 (AUS Eastern Daylight Time) -- Request to: self.events.data.microsoft.com:443
+Fri Jan 17 2025 13:13:08:653 GMT+1100 (AUS Eastern Daylight Time) -- [PARSING HANDSHAKE][0][63539401] Handshake request to self.events.data.microsoft.com:443
+Fri Jan 17 2025 13:13:08:653 GMT+1100 (AUS Eastern Daylight Time) -- Connecting to: self.events.data.microsoft.com:443
+Fri Jan 17 2025 13:13:08:853 GMT+1100 (AUS Eastern Daylight Time) -- Connected to: 20.189.173.18
+Fri Jan 17 2025 13:13:09:67 GMT+1100 (AUS Eastern Daylight Time) -- Writing 1240 bytes response from: self.events.data.microsoft.com:443
+Fri Jan 17 2025 13:13:09:69 GMT+1100 (AUS Eastern Daylight Time) -- Writing 3210 bytes response from: self.events.data.microsoft.com:443
+Fri Jan 17 2025 13:13:09:322 GMT+1100 (AUS Eastern Daylight Time) -- Writing 51 bytes response from: self.events.data.microsoft.com:443
+Fri Jan 17 2025 13:13:09:565 GMT+1100 (AUS Eastern Daylight Time) -- Writing 54 bytes response from: self.events.data.microsoft.com:443
+Fri Jan 17 2025 13:13:09:725 GMT+1100 (AUS Eastern Daylight Time) -- Writing 453 bytes response from: self.events.data.microsoft.com:443
