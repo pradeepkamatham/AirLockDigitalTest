@@ -1,0 +1,3 @@
+Write-Host "Running installation"
+Install-Software -Path "C:\Software\app.exe"
+Installation file
